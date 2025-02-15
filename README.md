@@ -1,7 +1,8 @@
 # Calendar_generator
 
 ## Description
-A simple command-line Calculator that performs basic arithmetic operations.
+This is a basic calendar application that allows users to view dates, check weekdays, and add simple notes for specific dates.  
+The project is built using Python in Visual Studio Code
 
 ## How to run
 Run the script with Visual Studio Code.
